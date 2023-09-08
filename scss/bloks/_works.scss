@@ -51,6 +51,7 @@
         width: 100%;
         display: flex;
         column-gap: 95px;
+        align-items: center;
         
         &-card {
             max-width: 285px;
@@ -198,5 +199,5 @@
     }
 }
 .works__bottom-card__description{
-    text-align: left;
+    // text-align: left;
 }
